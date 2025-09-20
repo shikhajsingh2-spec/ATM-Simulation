@@ -1,0 +1,4 @@
+------ ATM Receipt ------
+Account Number: 123
+Balance: ₹3300.0
+Thank you for using our ATM.
